@@ -14,6 +14,10 @@ wechat_qrcode使用caffe编写，包含检测模型和超分模型，每个模�
 
 ## caffe模型转onnx和Pytorch，搭建模型
 
+### caffe读取模型并绘图
+
+步骤见[详细教程](tutorials/caffe.md)
+
 ## Zxing和Zbar的运行和测试
 
 ## 数据集搜集，建立benchmark和评价指标，自动化
