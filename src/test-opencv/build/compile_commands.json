@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/computer-vision/test-opencv/build",
+  "command": "/usr/bin/c++   -isystem /root/computer-vision/opencv4.7-install/include/opencv4    -std=gnu++11 -o CMakeFiles/test.dir/test-tencent.cpp.o -c /root/computer-vision/test-opencv/test-tencent.cpp",
+  "file": "/root/computer-vision/test-opencv/test-tencent.cpp"
+}
+]

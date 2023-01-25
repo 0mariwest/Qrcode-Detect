@@ -1,0 +1,5 @@
+*.cmake
+*.log
+*.marks
+*.out
+CMakeFiles
