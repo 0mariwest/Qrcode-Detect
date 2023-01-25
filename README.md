@@ -4,7 +4,7 @@
 
 步骤见[详细教程](tutorials/tencent.md)
 
-wechat_qrcode使用caffe编写，包含检测模型和超分模型，每个模型有参数文件`prototxt`和模型文件`caffemodel`。
+wechat_qrcode使用caffe编写，包含检测模型和超分模型，每个模型有模型文件`prototxt`和权重文件`caffemodel`。
 
 系统使用OpenCV读入caffe模型进行推理，该部分组件保存在OpenCV扩展库opencv_contrib中，其中还包含了Zxing用于二维码数据的具体解析
 
