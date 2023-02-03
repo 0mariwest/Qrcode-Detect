@@ -1,1 +1,0 @@
-VOCdevkit/VOC2012/ImagesSets/QR-00108.jpg 0.48375 0.64 0.3425 0.34
