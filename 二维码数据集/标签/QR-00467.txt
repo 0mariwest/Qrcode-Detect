@@ -1,0 +1,1 @@
+VOCdevkit/VOC2012/ImagesSets/QR-00467.jpg 0.493 0.387 0.314 0.314
