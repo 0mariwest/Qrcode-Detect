@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imageData</folder>
+	<filename>QR-00460.jpg</filename>
+	<path>E:\images\liwei\imageData\QR-00460.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>49</ymin>
+			<xmax>240</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
